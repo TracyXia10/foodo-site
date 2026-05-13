@@ -35,7 +35,7 @@ export default function Home() {
         </h1>
 
         <p className="text-xl text-gray-600">
-          RJ loves you FC.
+          能不能好好搞啊吴迪.
         </p>
 
         <img
